@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PLATFORMS="darwin/amd64 linux/amd64"
+PLATFORMS="darwin/arm64 darwin/amd64 linux/amd64"
 
 SCRIPT_NAME=$(basename "${0}")
 FAILURES=""
